@@ -166,3 +166,21 @@ a.secondary {
     filter: invert();
   }
 }
+
+.header{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navList{
+  display:flex;
+}
+
+.nav ul li{
+  list-style: none;
+}
+
+.link{
+  margin: 10px;
+}
